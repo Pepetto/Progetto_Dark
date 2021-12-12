@@ -1,0 +1,88 @@
+.backgroundpg1{
+    background:linear-gradient(90deg, rgb(2, 2, 2),rgba(0, 0, 0, 0.404)) ,url(./moon.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundpg2{
+    background-color: black;
+    height:100vh ;
+    
+}
+
+.textright{
+    text-align: right;
+}
+
+.textcentre{
+
+    text-align: center;
+}
+
+.cardsfondo{
+    background-color: black;
+}
+
+
+.zindex{
+    z-index: 100;
+}
+
+.bordop{
+    border-bottom: 2px solid #2B9DF4;
+    border-radius: 1px;
+}
+
+.colortx{
+    background-color: transparent;
+}
+
+.imgfine{
+    background-image: url(./sunrise-1765027_1920.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+}
+
+.title{
+    color: #2B9DF4;
+}
+
+.bordonav{ background-color: black;
+    border-bottom: 3px solid white;
+}
+
+.backgroundpg3{
+    background-color: black;
+    height:30vh ;
+    
+}
+
+.textwhite{
+    color: white;
+}
+
+.icon{
+    color: #2B9DF4;
+}
+
+.bordoicone{
+    border-bottom: 2px solid #2B9DF4;
+}
+
+.prova{
+    -webkit-box-shadow: 5px 0px 20px 50px #000000; 
+box-shadow: 5px 0px 20px 50px #000000;
+}
+
+.bordofine{
+    background: linear-gradient();
+    border-bottom: 5px solid #2B9DF4;
+
+}
